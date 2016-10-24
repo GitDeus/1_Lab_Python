@@ -5,7 +5,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c3517968-51e2-4d74-bbc9-7ae05b6fb8ec</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>_1_Lab_Python.py</StartupFile>
+    <StartupFile>1.2. Простейшая арифметика\1.2.12___1_Lab_Python.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,7 +22,40 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="_1_Lab_Python.py" />
+    <Compile Include="1.1. Работа с консолью\1.1.3___1_Lab_Python - Copy.py" />
+    <Compile Include="1.2. Простейшая арифметика\1.2.11___1_Lab_Python.py" />
+    <Compile Include="1.2. Простейшая арифметика\1.2.8___1_Lab_Python.py" />
+    <Compile Include="1.2. Простейшая арифметика\1.2.12___1_Lab_Python.py" />
+    <Compile Include="1.3. Условный оператор и арифметика\1.3.4___1_Lab_Python.py" />
+    <Compile Include="1.4. Циклы и арифметика\1.4.69___Lab_Python.py" />
+    <Compile Include="1.4. Циклы и арифметика\1.4.53___1_Lab_Python.py" />
+    <Compile Include="1.4. Циклы и арифметика\1.4.50___1_Lab_Python.py" />
+    <Compile Include="1.5. Работа с символами\1.5.2___Lab_Python.py" />
+    <Compile Include="1.5. Работа с символами\1.5.3___Lab_Python.py" />
+    <Compile Include="2.1. Заполнение массива\2.1.14___Lab_Python .py" />
+    <Compile Include="2.1. Заполнение массива\2.1.9___Lab_Python.py" />
+    <Compile Include="2.2. Анализ элементов массива\2.2.30___Lab_Python.py" />
+    <Compile Include="2.2. Анализ элементов массива\2.2.9___Lab_Python.py" />
+    <Compile Include="2.2. Анализ элементов массива\2.2.6___Lab_Python.py" />
+    <Compile Include="2.3. Преобразование массива\2.3.7___Lab_Python.py" />
+    <Compile Include="4. Строки\4.127___Lab_Python.py" />
+    <Compile Include="4. Строки\4.15___Lab_Python.py" />
+    <Compile Include="4. Строки\4.14___Lab_Python.py" />
+    <Compile Include="4. Строки\4.11___Lab_Python.py" />
+    <Compile Include="4. Строки\4.6___Lab_Python.py" />
+    <Compile Include="4. Строки\4.2___Lab_Python.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="1.1. Работа с консолью\" />
+    <Folder Include="1.2. Простейшая арифметика\" />
+    <Folder Include="1.5. Работа с символами\" />
+    <Folder Include="2.1. Заполнение массива\" />
+    <Folder Include="2.2. Анализ элементов массива\" />
+    <Folder Include="2.3. Преобразование массива\" />
+    <Folder Include="4. Строки\" />
+    <Folder Include="1.4. Циклы и арифметика\" />
+    <Folder Include="1.3. Условный оператор и арифметика\" />
+    <Folder Include="3.Матрицы\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
